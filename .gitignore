@@ -4,11 +4,12 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 #All
-MovieRecc2.sln
-appsettings.json
-appsettings.Development.json
-Properties
-*.csproj
+*.sln
+MovieAPIs/appsettings.json
+MovieAPIs/appsettings.Development.json
+MovieData/Properties
+MovieData/*.csproj
+MovieDomain/*.csproj
 
 
 # User-specific files
